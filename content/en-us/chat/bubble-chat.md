@@ -45,7 +45,7 @@ The following table shows common bubble chat customization properties. For a ful
 	<tr>
 		<td>`Class.BubbleChatConfiguration.BackgroundColor3|BackgroundColor3`</td>
 		<td>Background color of bubbles in `Datatype.Color3`.</td>
-		<td>[250, 250, 250]</td>
+		<td>`[250, 250, 250]`</td>
 	</tr>
 	<tr>
 		<td>`Class.BubbleChatConfiguration.FontFace|FontFace`</td>
@@ -55,7 +55,7 @@ The following table shows common bubble chat customization properties. For a ful
 	<tr>
 		<td>`Class.BubbleChatConfiguration.TextColor3|TextColor3`</td>
 		<td>Color of bubble text in `Datatype.Color3`.</td>
-		<td>[57, 59, 61]</td>
+		<td>`[57, 59, 61]`</td>
 	</tr>
 	<tr>
 		<td>`Class.BubbleChatConfiguration.TextSize|TextSize`</td>
@@ -99,7 +99,7 @@ The following table shows common bubble chat customization properties. For a ful
 	<tr>
 		<td>`Class.BubbleChatConfiguration.LocalPlayerStudsOffset|LocalPlayerStudsOffset`</td>
 		<td>If adorned to the local player, the offset of bubbles in studs from their adornee, relative to the camera orientation (`Datatype.Vector3`).</td>
-		<td>(0, 0, 0)</td>
+		<td>`(0, 0, 0)`</td>
 	</tr>
 	<tr>
 		<td>`Class.BubbleChatConfiguration.MaxDistance|MaxDistance`</td>
@@ -188,17 +188,17 @@ The following tables include all available properties for customization:
 	<tr>
 		<td>`Class.ImageLabel.ImageColor3|ImageColor3`</td>
 		<td>Color tint of the bubble background image in `Datatype.Color3`.</td>
-		<td>[255,&nbsp;255,&nbsp;255]</td>
+		<td>`[255,&nbsp;255,&nbsp;255]`</td>
 	</tr>
 	<tr>
 		<td>`Class.ImageLabel.ImageRectOffset|ImageRectOffset`</td>
 		<td>Offset of the image area to be displayed from the top-left in pixels.</td>
-		<td>(0, 0)</td>
+		<td>`(0, 0)`</td>
 	</tr>
 	<tr>
 		<td>`Class.ImageLabel.ImageRectSize|ImageRectSize`</td>
 		<td>Size of the image area to be displayed in pixels. To display the entire image, set either dimension to 0.</td>
-		<td>(0, 0)</td>
+		<td>`(0, 0)`</td>
 	</tr>
 	<tr>
 		<td>`Class.ImageLabel.ScaleType|ScaleType`</td>
@@ -208,7 +208,7 @@ The following tables include all available properties for customization:
 	<tr>
 		<td>`Class.ImageLabel.SliceCenter|SliceCenter`</td>
 		<td>Slice boundaries of the image if the image is a 9-sliced image. Only applicable when you set `Class.ImageLabel.ScaleType|ScaleType` as `Enum.ScaleType|Slice`. </td>
-		<td>(0, 0, 0, 0)</td>
+		<td>`(0, 0, 0, 0)`</td>
 	</tr>
 	<tr>
 		<td>`Class.ImageLabel.SliceScale|SliceScale`</td>
@@ -218,7 +218,7 @@ The following tables include all available properties for customization:
 	<tr>
 		<td>`Class.ImageLabel.TileSize|TileSize`</td>
 		<td>Tiling size of the image. Only applicable when you set `Class.ImageLabel.ScaleType|ScaleType` as `Enum.ScaleType|Tile`.</td>
-		<td>(1, 0, 1, 0)</td>
+		<td>`(1, 0, 1, 0)`</td>
 	</tr>
 </tbody>
 </table>
@@ -242,12 +242,12 @@ The following tables include all available properties for customization:
 	<tr>
 		<td>`Class.UIGradient.Color|Color`</td>
 		<td>Color of the background gradient.</td>
-		<td>[250, 250, 250]</td>
+		<td>`[250, 250, 250]`</td>
 	</tr>
 	<tr>
 		<td>`Class.UIGradient.Offset|Offset`</td>
 		<td>Scalar translation of the gradient from the center of the bubble.</td>
-		<td>(0, 0)</td>
+		<td>`(0, 0)`</td>
 	</tr>
 	<tr>
 		<td>`Class.UIGradient.Rotation|Rotation`</td>
@@ -257,7 +257,7 @@ The following tables include all available properties for customization:
 	<tr>
 		<td>`Class.UIGradient.Transparency|Transparency`</td>
 		<td>Transparency of the background gradient.</td>
-		<td>(1, 0)</td>
+		<td>`(1, 0)`</td>
 	</tr>
 </tbody>
 </table>
@@ -276,7 +276,7 @@ The following tables include all available properties for customization:
 	<tr>
 		<td>`Class.UICorner.CornerRadius|CornerRadius`</td>
 		<td>Radius of the bubble corner shape in pixels.</td>
-		<td>(0, 12)</td>
+		<td>`(0, 12)`</td>
 	</tr>
 </tbody>
 </table>
@@ -383,7 +383,7 @@ The following basic customization properties are available for per-bubble custom
 	<tr>
 		<td>`Class.BubbleChatConfiguration.TextColor3|TextColor3`</td>
 		<td>Color of bubble text in `Datatype.Color3`.</td>
-		<td>[57, 59, 61]</td>
+		<td>`[57, 59, 61]`</td>
 	</tr>
 	<tr>
 		<td>`Class.BubbleChatConfiguration.TextSize|TextSize`</td>
