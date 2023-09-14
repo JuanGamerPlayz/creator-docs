@@ -54,8 +54,8 @@ Try to figure it out yourself before looking at the code solution.
 Code Solution
 Below is one possible code solution
 
-```Lua
--- Insert this script into button
+```lua
+-- Insert this script into the button
 -- Turns the button green when something touches the button.
 
 local button = script.Parent
@@ -69,7 +69,6 @@ local function buttonPressed()
 end
 
 button.Touched:Connect(buttonPressed)
-
 ```
 
 ### Troubleshooting Your Code
@@ -109,5 +108,4 @@ local function buttonPressed()
 end
 
 button.Touched:Connect(buttonPressed)
-
 ```
