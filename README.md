@@ -16,7 +16,7 @@ If you find a problem with the documentation and don't want to submit a pull req
 
 Any addition to the Roblox creator documentation has to fit within the larger whole. In other words, even a comprehensive, accurate, well-written blog post or technical whitepaper might not have a home on the website.
 
-Generally speaking, we look for content that conforms to our existing standards and applies to a wide variety of experiences and use cases. For example, we prefer pages like **Building User Interfaces** to pages like **Creating a Speedometer for a Racing Game**. Consider posting more specialized guides to the [Roblox developer forum](https://devforum.roblox.com/c/resources/71).
+Generally speaking, we look for content that conforms to our existing standards and applies to a wide variety of experiences and use cases. For example, we prefer pages like **Building User Interfaces** to pages like **Creating a Speedometer for a Racing Game**. Consider posting more specialized guides to the [Roblox Developer Forum](https://devforum.roblox.com/c/resources/71).
 
 When you submit a pull request for review, you must agree to the following:
 
@@ -83,7 +83,7 @@ The Roblox documentation has three main document types:
 
 - Tutorials in `.md` files in [content/en-us/tutorials](./content/en-us/tutorials)
 
-  Compared to task-based guides, tutorials are more self-contained and take you from _nothing_ to _something_. This focus on creating something specific means they're typically much more prescriptive than guides. Tutorials often touch multiple features and concepts at the same time, demonstrating the connections between tools and strategies.
+  Compared to task-based guides, tutorials are more self-contained and take you from _nothing_ to _something_. This focus on creating something specific means they're typically much more prescriptive than guides. Tutorials often touch on multiple features and concepts at the same time, demonstrating the connections between tools and strategies.
 
 If your contribution doesn't fit within these categories or covers a particularly narrow subject, it might not be a good fit for the documentation. Consider posting it to the [Roblox developer forum](https://devforum.roblox.com/c/resources/71).
 
